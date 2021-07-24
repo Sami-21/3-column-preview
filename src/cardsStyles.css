@@ -67,7 +67,7 @@
 /*Responsiveness */
 @media (max-width: 950px) {
   .global_cards_preview_container {
-    transform: translateY(29rem);
+    transform: translateY(28rem);
     flex-direction: column;
     align-items: center;
     padding-top: 2rem;
